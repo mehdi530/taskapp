@@ -6,5 +6,4 @@ NoSQL databases are non-tabular databases and store data differently than relati
 
 Features of this application : add , update , delete your to day tasks
 
-
 ![Screenshot_1663867622](https://user-images.githubusercontent.com/113126374/191812805-fa4decae-67bc-4ad9-b891-82dbaf0b9e20.png)
